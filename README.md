@@ -1,2 +1,4 @@
 # RoofSensor
-Ultrasonic sensor for detection if roof is opened or closed
+Ultrasonic sensor for detecting whether the roof is open or closed
+
+![Scheme of connection.](distance_bb.png)
